@@ -143,7 +143,7 @@ export default function AboutPage() {
 								<div className="min-w-0">
 									<div className="text-3xl font-semibold leading-tight tracking-tight text-zinc-900">Sruthi Kurada</div>
 									<div className="mt-1 text-2xl leading-snug text-zinc-600">
-										<span className="italic">Founder and CTO</span>
+										<span className="italic">Co-founder and CTO</span>
 									</div>
 								</div>
 							</div>

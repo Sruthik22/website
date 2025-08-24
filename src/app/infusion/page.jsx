@@ -101,6 +101,12 @@ export default function Home() {
               />
             </div>
           </div>
+
+          <div className="text-center mb-2">
+            <p className="lg:text-2xl text-lg max-w-5xl mx-auto mb-8 px-[2vw] mt-8">
+            Oncare helps manage <span className="font-bold">both scheduling and staffing</span>, pairing this with AI that recommends <span className="font-bold">real-time adjustments</span> throughout the day.
+            </p>
+          </div>
         </section>
 
         <section id="learn-more" className="relative bg-darker py-16">
@@ -132,6 +138,12 @@ export default function Home() {
         <section id="about">
           <div className="text-center mt-12">
             <h2 className="text-4xl font-bold text-gray-900">Key Features</h2>
+          </div>
+
+          <div className="text-center mb-2">
+            <p className="lg:text-2xl text-lg max-w-5xl mx-auto mb-8 px-[2vw] mt-8">
+            Oncare’s AI boosts throughput by keeping schedules on track better than traditional tools and nudging teams to follow optimal recommendations throughout the day.
+            </p>
           </div>
 
           <div className="py-12 space-y-12">

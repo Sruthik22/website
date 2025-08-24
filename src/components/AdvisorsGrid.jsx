@@ -7,8 +7,8 @@ const ADVISORS = [
   { name: "Patrick Fitzgerald, JD", role: "Fmr. VP of Innovation", org: "CHOP", file: "patrick-fitzgerald.png" },
   { name: "Dr. Tim Showalter, MD, MBA", role: "CMO", org: "ArteraAI", file: "tim-showalter.png" },
   { name: "Sean O'Neill, RPh", role: "CCO", org: "Bainbridge Health", file: "sean-oneill.png" },
-  { name: "Jerelyn Moffet, NP", role: "Pediatric Oncology Nurse Practitioner", org: "Duke Pediatric Oncology", file: "jerelyn-moffet.png" },
-  { name: "Deep Nana", role: "Manager, Implementation Team", org: "Abridge", file: "deep-nana.png" },
+  { name: "Jerelyn Moffet, NP", role: "Pediatric NP", org: "Duke", file: "jerelyn-moffet.png" },
+  { name: "Deep Nana", role: "Implementation Manager", org: "Abridge", file: "deep-nana.png" },
 ];
 
 function Card({ a }) {
